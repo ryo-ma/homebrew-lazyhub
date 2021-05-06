@@ -4,7 +4,7 @@
 class Lazyhub < Formula
   desc ":octocat: lazyhub - Terminal UI Client for GitHub using gocui."
   homepage "https://github.com/ryo-ma/lazyhub"
-  url "https://github.com/ryo-ma/lazyhub/archive/v0.0.1.tar.gz"
+  url "https://github.com/ryo-ma/lazyhub/archive/v0.0.2.tar.gz"
   sha256 "00c442edc62c219bf81880a47dc36f0ad33d0a9dd7457b84a42e66c15224fd5d"
 
   # depends_on "cmake" => :build
